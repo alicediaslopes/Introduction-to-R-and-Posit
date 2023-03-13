@@ -1,6 +1,6 @@
 # Download and install R and RStudio
 
-Explain the differences between R and RStudio
+If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This page presents a step-by-step on how to do it. 
 
 ## Why do we use R as our statistical language and programme?
 
