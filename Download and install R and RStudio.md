@@ -2,7 +2,12 @@
 
 If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This pages aims to present a brief introduction to R and RStudio and a step-by-step guide on how to download and install both.
 
-**R** is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. The R statistical programme is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
+**R** is an open source, flexible and powerful language and environment for statistical computing and graphics. It consists of a core which carries out standard statistical calculations, and a very large library of packages to do specialist functions - from amazing [data visualisations](r-graph-gallery.com/) to [apps](shiny.rstudio.com/gallery/)!
+
+**R** also has a very friendly and supportive community of users. You can find countless free online courses, tutorials and foruns that help people learning R. 
+If you are completly new to coding, we suggest the Data Capentries' course ["R for Social Scientists"](https://preview.carpentries.org/r-socialsci/index.html). Still, it is important to remember that you will not become coder - we are still Social Scientists! At the beginning of your R journey, google will be your best friend and you will copy and paste - or use [ChatGPT](https://www.r-bloggers.com/2022/12/chatgpt-can-create-datasets-program-in-r-and-when-it-makes-an-error-it-can-fix-that-too/) -  codes from online resources. 
+
+The **R statistical programme** is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
 
 <img
   src="Figures/R.png"
@@ -20,13 +25,6 @@ And that is why we need to install RStudio. To function correctly, RStudio needs
   title="RStudio Screenshot from Alice's computer"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
    <em>My current RStudio session</em>
-
-## Why do we use R (RStudio) as our statistical language and programme?
-
-R is an open source, flexible and powerful language and environment for statistical computing and graphics. It consists of a core which carries out standard statistical calculations, and a very large library of packages to do specialist functions - from amazing [data visualisations](r-graph-gallery.com/) to [apps](shiny.rstudio.com/gallery/)!
-
-R also has a very friendly and supportive community of users. You can find countless free online courses, tutorials and foruns that help people learning R. 
-If you are completly new to coding, we suggest the Data Capentries' course ["R for Social Scientists"](https://preview.carpentries.org/r-socialsci/index.html). Still, it is important to remember that you will not become coder - we are still Social Scientists! At the beginning of your R journey, google will be your best friend and you will copy and paste - or use [ChatGPT](https://www.r-bloggers.com/2022/12/chatgpt-can-create-datasets-program-in-r-and-when-it-makes-an-error-it-can-fix-that-too/) -  codes from online resources. 
 
 ## <img src="Figures/Rlogo.png" alt="R Logo" title="R Logo" width="40" height="30">
 To download and install R, go to https://cran.r-project.org/.
