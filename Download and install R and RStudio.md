@@ -28,13 +28,10 @@ R is an open source, flexible and powerful language and environment for statisti
 R also has a very friendly and supportive community of users. You can find countless free online courses, tutorials and foruns that help people learning R. 
 If you are completly new to coding, we suggest the Data Capentries' course ["R for Social Scientists"](https://preview.carpentries.org/r-socialsci/index.html). Still, it is important to remember that you will not become coder - we are still Social Scientists! At the beginning of your R journey, google will be your best friend and you will copy and paste - or use [ChatGPT](https://www.r-bloggers.com/2022/12/chatgpt-can-create-datasets-program-in-r-and-when-it-makes-an-error-it-can-fix-that-too/) -  codes from online resources. 
 
-
-
 ## <img src="Figures/Rlogo.png" alt="R Logo" title="R Logo" width="40" height="30">
 To download and install R, go to https://cran.r-project.org/.
 You need to select the version that matches your operating system (Linux, macOS or Windows). 
  
-
 ## <img src="Figures/RStudio-Logo-Flat.png" alt="R Studio Logo" title="R Studio Logo" width="90" height="30">
 To download and install RStudio, go to https://posit.co/downloads/
 
