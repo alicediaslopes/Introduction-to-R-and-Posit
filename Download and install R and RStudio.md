@@ -6,6 +6,12 @@ R is the statistical programme (and language) that will perform all the calculat
 
 ![R Console](Figures/R.png "What I get when I open R in my computer")
 
+<img
+  src="Figures/R.png"
+  alt="R Console"
+  title="What I get when I open R in my computer"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 RStudio is a cross-platform integrated development environment (IDE) for the R statistical language
 
 ## Why do we use R as our statistical language and programme?
