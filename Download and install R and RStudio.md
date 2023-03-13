@@ -11,3 +11,5 @@ R is NOT compatible with tablets or phones.
 
 ## RStudio
 To download and install RStudio, go to https://posit.co/downloads/
+
+RStudio is currently beung rebranded as 'Posit' -- explain
