@@ -7,7 +7,7 @@ If you want to use R and RStudio to analyse the data for your MSc dissertation, 
 It also has a very friendly and supportive community of users. You can find countless free online courses, tutorials and foruns that help people learning R. 
 If you are completly new to coding, we suggest the Data Capentries' course ["R for Social Scientists"](https://preview.carpentries.org/r-socialsci/index.html). Still, it is important to remember that you will not become coder - we are still Social Scientists! At the beginning of your R journey, google will be your best friend and you will copy and paste - or use [ChatGPT](https://www.r-bloggers.com/2022/12/chatgpt-can-create-datasets-program-in-r-and-when-it-makes-an-error-it-can-fix-that-too/) -  codes from online resources. 
 
-The **R statistical programme** is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
+The **R software** is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
 
 <img
   src="Figures/R.png"
