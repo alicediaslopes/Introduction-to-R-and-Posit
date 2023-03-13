@@ -2,7 +2,7 @@
 
 If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This pages aims to present a brief introduction to R and RStudio and a step-by-step guide on how to download and install both on your own computer.
 
-R is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. The R statistical programme is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
+**R** is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. The R statistical programme is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
 
 <img
   src="Figures/R.png"
@@ -12,10 +12,11 @@ R is the statistical programme (and language) that will perform all the calculat
    <em>What I get when I open R in my computer</em>
 
 And that is why we need to install RStudio. To function correctly, RStudio needs R and therefore both need to be installed on your computer. 
+**RStudio** is a cross-platform integrated development environment (IDE) for the R statistical language, which is a user-friendly interface R. With RStudio, you will have the console, script, history, environment and plots in one window. You can see a screenshot from my current RStudio session below
 
-RStudio is a cross-platform integrated development environment (IDE) for the R statistical language
 
-## Why do we use R as our statistical language and programme?
+
+## Why do we use R (RStudio) as our statistical language and programme?
 
 R is an open source, flexible and powerful language and environment for statistical computing and graphics. It consists of a core which carries out standard statistical calculations, and a very large library of packages to do specialist functions - from amazing [data visualisations](r-graph-gallery.com/) to [apps](shiny.rstudio.com/gallery/)!
 
