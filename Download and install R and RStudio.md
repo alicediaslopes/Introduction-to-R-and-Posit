@@ -9,6 +9,7 @@ If you want to use R and RStudio to analyse the data for your MSc dissertation, 
   alt="R Console"
   title="What I get when I open R in my computer"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
    <em>What I get when I open R in my computer</em>
 
 And that is why we need to install RStudio. To function correctly, RStudio needs R and therefore both need to be installed on your computer. 
