@@ -2,6 +2,8 @@
 
 If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This page presents a step-by-step on how to do it :relaxed:. 
 
+Before we start, let's get a brief introduction to R and RStudio.
+
 R is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. However, R is not a very user-friendly.  
 
 <img
