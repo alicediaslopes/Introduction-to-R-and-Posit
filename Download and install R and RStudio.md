@@ -17,7 +17,7 @@ RStudio is a cross-platform integrated development environment (IDE) for the R s
 R is an open source, flexible and powerful language and environment for statistical computing and graphics. It consists of a core which carries out standard statistical calculations, and a very large library of packages to do specialist functions - from amazing [data visualisations](r-graph-gallery.com/) to [apps](shiny.rstudio.com/gallery/)!
 
 R also has a very friendly and supportive community of users. You can find countless free online courses, tutorials and foruns that help people learning R. 
-If you are completly new to coding, we suggest the Data Capentries' course ["R for Social Scientists"](https://preview.carpentries.org/r-socialsci/index.html). Still, it is important to remember that you will not become coder - we are still Social Scientists! - and, at the beginning of your R journey, google will be your best firend and you will copy and paste - or use [ChatGPT](https://www.r-bloggers.com/2022/12/chatgpt-can-create-datasets-program-in-r-and-when-it-makes-an-error-it-can-fix-that-too/) -  a lot of codes from online resources. 
+If you are completly new to coding, we suggest the Data Capentries' course ["R for Social Scientists"](https://preview.carpentries.org/r-socialsci/index.html). Still, it is important to remember that you will not become coder - we are still Social Scientists! At the beginning of your R journey, google will be your best friend and you will copy and paste - or use [ChatGPT](https://www.r-bloggers.com/2022/12/chatgpt-can-create-datasets-program-in-r-and-when-it-makes-an-error-it-can-fix-that-too/) -  codes from online resources. 
 
 
 
