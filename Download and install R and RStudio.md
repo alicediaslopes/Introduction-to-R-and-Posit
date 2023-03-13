@@ -4,8 +4,6 @@ If you want to use R and RStudio to analyse the data for your MSc dissertation, 
 
 R is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. However, R is not a very user-friendly.  
 
-![R Console](Figures/R.png "What I get when I open R in my computer")
-
 <img
   src="Figures/R.png"
   alt="R Console"
@@ -18,7 +16,10 @@ RStudio is a cross-platform integrated development environment (IDE) for the R s
 
 R is an open source, flexible and powerful language and statistical programme. It consists of a core which carries out standard statistical calculations, and a very large library of packages to do specialist functions - from amazing [data visualisations](r-graph-gallery.com/) to [apps](shiny.rstudio.com/gallery/)!
 
-## <img src="https://www.r-project.org/logo/Rlogo.png" width="40" height="30">
+## <img src="https://www.r-project.org/logo/Rlogo.png" 
+          alt="R Logo"
+          title="R Logo"
+          width="40" height="30">
 To download and install R, go to https://cran.r-project.org/.
 You need to select the version that matches your operating system (Linux, macOS or Windows). 
  
