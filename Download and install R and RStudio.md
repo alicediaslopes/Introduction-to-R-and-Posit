@@ -2,7 +2,7 @@
 
 Explain the differences between R and RStudio
 
-Why do we use R as our statistical language and programme?
+## Why do we use R as our statistical language and programme?
 
 ## R <img src="https://www.r-project.org/logo/Rlogo.png" width="40" height="30">
 To download and install R, go to https://cran.r-project.org/.
