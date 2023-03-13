@@ -9,8 +9,7 @@ If you want to use R and RStudio to analyse the data for your MSc dissertation, 
   alt="R Console"
   title="What I get when I open R in my computer"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-   <em>What I get when I open R in my computer</em>
+  <em>What I get when I open R in my computer</em>
 
 And that is why we need to install RStudio. To function correctly, RStudio needs R and therefore both need to be installed on your computer. 
 **RStudio** is a cross-platform integrated development environment (IDE) for the R statistical language, which is a user-friendly interface R. With RStudio, you will have the console, script, history, environment and plots in one window. You can see a screenshot from my current RStudio session below
