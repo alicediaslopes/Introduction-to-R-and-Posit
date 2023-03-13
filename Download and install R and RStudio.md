@@ -12,7 +12,7 @@ RStudio is a cross-platform integrated development environment (IDE) for the R s
 
 R is an open source, flexible and powerful language and statistical programme. It consists of a core which carries out standard statistical calculations, and a very large library of packages to do specialist functions - from amazing [data visualisations](r-graph-gallery.com/) to [apps](shiny.rstudio.com/gallery/)!
 
-## <img src="https://www.r-project.org/logo/Rlogo.png" width="40" height="30" "R Logo">
+## <img src="https://www.r-project.org/logo/Rlogo.png" width="40" height="30">
 To download and install R, go to https://cran.r-project.org/.
 You need to select the version that matches your operating system (Linux, macOS or Windows). 
  
