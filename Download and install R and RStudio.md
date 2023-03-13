@@ -9,7 +9,7 @@ R is the statistical programme (and language) that will perform all the calculat
   alt="R Console"
   title="What I get when I open R in my computer"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  <figcaption>MDN Logo</figcaption>
+   <em>image_caption</em>
 
 And that is why we need to install RStudio. To function correctly, RStudio needs R and therefore both need to be installed on your computer. 
 
