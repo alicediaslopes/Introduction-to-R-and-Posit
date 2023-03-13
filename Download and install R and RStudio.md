@@ -1,6 +1,6 @@
 # Download and install R and RStudio
 
-If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This page presents a step-by-step on how to do it. 
+If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This page presents a step-by-step on how to do it :relaxed:. 
 
 R is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. However, R is not a very user-friendly.  
 
@@ -21,7 +21,7 @@ To download and install R, go to https://cran.r-project.org/.
 You need to select the version that matches your operating system (Linux, macOS or Windows). 
  
 
-## <img src="Figures/RStudio-Logo-Flat.png" alt="R Studio" title="R Studio" width="90" height="30">
+## <img src="Figures/RStudio-Logo-Flat.png" alt="R Studio Logo" title="R Studio Logo" width="90" height="30">
 To download and install RStudio, go to https://posit.co/downloads/
 
 RStudio is currently beung rebranded as 'Posit'- Explain
