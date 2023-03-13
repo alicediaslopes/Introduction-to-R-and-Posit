@@ -2,13 +2,15 @@
 
 If you want to use R and RStudio to analyse the data for your MSc dissertation, you will need to download and install R and RStudio in your own computer. This pages aims to present a brief introduction to R and RStudio and a step-by-step guide on how to download and install both on your own computer.
 
-R is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. The R statistical programme is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen: 
+R is the statistical programme (and language) that will perform all the calculation and produce data visualisation for you. The R statistical programme is not very user-friendly. If you decide to open R in your computer, you will get the following - scary - screen.
 
 <img
   src="Figures/R.png"
   alt="R Console"
   title="What I get when I open R in my computer"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+And that is why we need to install RStudio. To function correctly, RStudio needs R and therefore both need to be installed on your computer. 
 
 RStudio is a cross-platform integrated development environment (IDE) for the R statistical language
 
