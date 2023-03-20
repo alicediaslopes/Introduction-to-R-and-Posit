@@ -2,6 +2,9 @@
 
 <img src="Figures/Jupyter_logo.svg.png" align="left" alt="Jupyter Notebooks Logo" title="Jupyter Notebooks Logo" width="100" height="120"> Jupyter is a free, open-source, interactive web tool known as a computational notebook. With Jupyter Notebooks, we will be able to run R code, display outputs and graphs, and also add explanations in one document. “Jupyter” is a loose acronym meaning Julia, Python, and R. These programming languages were the first target languages of the Jupyter application, but nowadays, the notebook technology also supports many other languages. 
 
+<img src="Figures/Jupyter_logo.svg.png" align="left" alt="Jupyter Notebooks Logo" title="Jupyter Notebooks Logo" width="100" height="120">
+Source: https://www.infoworld.com/article/3347406/what-is-jupyter-notebook-data-analysis-made-easier.html
+
 Jupyter Notebooks has been 
 
 You can see more interesting examples of Jupyter Notebooks here:
