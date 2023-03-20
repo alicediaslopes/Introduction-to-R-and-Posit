@@ -7,7 +7,7 @@ Jupyter Notebooks has been
 You can see more interesting examples of Jupyter Notebooks here:
 https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks
 
-If you’re interested in learning more about Jupyter Notebooks, read their documentation. To try out a notebook in your browser, go to https://try.jupyter.org/.
+If you’re interested in learning more about Jupyter Notebooks, read their documentation or watch this [youtube video](https://www.youtube.com/embed/oJ6z02N0Te0) explaining the basics. To try out a notebook in your browser, go to https://try.jupyter.org/.
 
 To learn R in this course, we will use [Noteable](https://noteable.edina.ac.uk/) which is a cloud-based application providing access to Jupyter Notebooks, developed and supported by the University of Edinburgh. Notable allows student to access Jupyter notebook at any time without going through its, painful installation process. You will have access to Noteable through the moodle page of the course.
 
